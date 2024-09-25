@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amancodeshere
 - 🌱 I’m currently studying Software Engineering at UNSW, with a particular interest in AI and cyber security.
-- 💞️ I’m looking to collaborate on any larger AI/ML projects. If you are interested feel free to message me.
+- 💞️ I’m looking to collaborate on any larger AI/ML projects.
+      If you are interested feel free to message me: amancodinghere@gmail.com
 - ⚡ Fun fact: In 2018, an AI-generated portrait titled Portrait of Edmond de Belamy was sold at a Christie’s auction for over $432,000.
 
 <!---
